@@ -1,2 +1,2 @@
 Hi! 
-This is my firts project file.
+This is my first project file
